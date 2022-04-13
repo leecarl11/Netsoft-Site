@@ -1,0 +1,62 @@
+html {
+  height: 100%;
+}
+body {
+  background-color: black;
+  background-image: url(images/anon3.JPG);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.container {
+  margin-left: auto;
+  margin-right: auto;
+  width: 1024px;
+}
+header {
+  height: 120px;
+  text-align: center;
+}
+nav {
+  height: 40;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: blue;
+}
+main {
+  height: 350px;
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+h1 {
+  font-size: 30px;
+  font-family: "Segoe UI", Tahoma, sans-serif;
+  color: azure;
+}
+p {
+  font-size: 15.5px;
+  padding-bottom: 50px;
+  color: aqua;
+  text-align: center;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+a {
+  color: blue;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  /*text-decoration: none;*/
+}
+footer p {
+  color: whitesmoke;
+  font-size: smaller;
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+}
+nav a {
+  font-size: 20px;
+  text-decoration: none;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  padding-left: 10px;
+  padding-right: 10px;
+}
